@@ -18,7 +18,7 @@ class Cave extends Abode {
   startFire() {
 
   }
-  // override
+  // override extended method
   move(): boolean {
     return false;
   }
