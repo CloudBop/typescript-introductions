@@ -6,3 +6,8 @@ Create tsconfig.json
 Watch file
 
 tsc -watch app.ts
+
+
+compile import/export/namespaces
+
+tsc path/to/file.ts --outFile namespace.js
