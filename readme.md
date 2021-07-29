@@ -1,4 +1,8 @@
 
+Introductory experiments/notes on typescript.
+
+Simple Typescript configuration, make sure typescript is installed.
+
 Create tsconfig.json
 
 % tsc --init

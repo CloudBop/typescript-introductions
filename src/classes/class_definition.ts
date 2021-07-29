@@ -11,7 +11,7 @@ class TreeTwo {
   constructor(public branch: string) {
     this.branch = branch
   }
-}
+} 
 
 // access modifiers
 class TreeThree {
